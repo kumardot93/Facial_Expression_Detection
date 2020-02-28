@@ -2,6 +2,7 @@
 ### Term Project semester 3(sub module) : Trained model
 
 In this program we are not training any machine learning model or CNN. The Expression Detection model is trained using Google's tensorflow and keras python package. The trained keras model is available in /models folder as model.h5.
+
 In this python program we are implementing that trained mdoel to detect facial expressions.
 
 ## Requirements :
