@@ -12,9 +12,14 @@ All the required packages are available in requirement.txt file in the root dire
 Use the following command to install the requirements :
 
 pip install -r requirement.txt
+
 or
+
 pip3 install -r requirement.txt
-or ### you can install all the packages manually using pip:
+
+or
+
+### you can install all the packages manually using pip:
   -tensorflow==2.1.0
   -keras==2.3.1
   -opencv-python==4.1.2
@@ -22,16 +27,20 @@ or ### you can install all the packages manually using pip:
 
 
 **You can feed image to the program in two ways :**
+
 1. Put the image in the image/ directory 
 2. Using webcam (*Press spacear to snap an image*)
+
 If you are putting the image in the directory manually that you need to feed the name of the image to the main.py.
 
 **To run the program:**
+
 1. Install all the requirements(Using virtual enviroment is recommended).
 2. Clone this respirotery and cd into the root directory.
 3. Run main.py by : python main.py or python3 main.py
 
 ### Reference :
+
 1. https://github.com/MauryaRitesh/Facial-Expression-Detection-V2 (training model)
 2. https://keras.io/(keras docs)
 3. https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_image_display/py_image_display.html(opencv image operations)
