@@ -6,9 +6,10 @@ In this program we are not training any machine learning model or CNN. The Expre
 In this python program we are implementing that trained mdoel to detect facial expressions.
 
 ## Requirements :
-Python 3.7
-All the required packages are available in requirement.txt file in the rood directory
-use the following command to install the requirements :
+Python 3.7 is recommended for this program.
+
+All the required packages are available in requirement.txt file in the root directory.
+Use the following command to install the requirements :
 
 pip install -r requirement.txt
 or
