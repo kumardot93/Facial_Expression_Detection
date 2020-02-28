@@ -20,10 +20,15 @@ pip3 install -r requirement.txt
 or
 
 ### you can install all the packages manually using pip:
+
   -tensorflow==2.1.0
+  
   -keras==2.3.1
+  
   -opencv-python==4.1.2
+  
   -matplotlib==3.1.3
+  
 
 
 **You can feed image to the program in two ways :**
