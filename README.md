@@ -1,7 +1,7 @@
 # Facial_Expression_Detection
 ### Term Project semester 3(sub module) : Trained model
 
-In this program we are not training any machine learning model or CNN. The Expression Detection model is trained using Google's tensorflow and keras python package. The trained keras model is available in /models folder as model.h5.
+In this program we are not training any machine learning model or CNN. The Expression Detection model is trained using Google's tensorflow and keras python package. The trained keras model is available in */models* folder as model.h5.
 
 In this python program we are implementing that trained mdoel to detect facial expressions.
 
@@ -33,7 +33,7 @@ or
 
 **You can feed image to the program in two ways :**
 
-1. Put the image in the image/ directory 
+1. Put the image in the *image/* directory 
 2. Using webcam (*Press spacear to snap an image*)
 
 If you are putting the image in the directory manually that you need to feed the name of the image to the main.py.
