@@ -47,6 +47,6 @@ If you are putting the image in the directory manually that you need to feed the
 ### Reference :
 
 1. https://github.com/MauryaRitesh/Facial-Expression-Detection-V2 (training model)
-2. https://keras.io/(keras docs)
-3. https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_image_display/py_image_display.html(opencv image operations)
-4. https://subscription.packtpub.com/book/application_development/9781785283932/3/ch03lvl1sec28/accessing-the-webcam(webcam access using opencv)
+2. https://keras.io/ (keras docs)
+3. https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_image_display/py_image_display.html (opencv image operations)
+4. https://subscription.packtpub.com/book/application_development/9781785283932/3/ch03lvl1sec28/accessing-the-webcam (webcam access using opencv)
